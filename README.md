@@ -18,7 +18,6 @@ I enjoy solving real problems with code that’s simple, fast, and maintainable.
 Employee performance management platform used by Rockmould Ltd.  
 Built with **PHP**, **MySQL**, and **JavaScript**.  
 Handles appraisals, reviews, and reporting efficiently.  
-🔗 [rockmouldappraisal.com](https://rockmouldappraisal.com)
 
 🧰 **UrbanHandy**  
 Uber-style handyman app connecting clients with nearby technicians.  
