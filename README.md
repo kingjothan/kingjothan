@@ -5,8 +5,8 @@ I enjoy solving real problems with code that’s simple, fast, and maintainable.
 
 🚀 What I Do  
 
-- 🧠 Backend development with **Laravel**, **Node.js**, and **NativePHP**  
-- 📱 Mobile apps using **Flutter**  
+- 🧠 Backend development with **Laravel**, **Node.js**, **python** and **NativePHP**  
+- 📱 Mobile apps using **Flutter** , **NativePHP**
 - 🗄️ Database design and optimization (**MySQL**)  
 - 🌍 API integration and real-time systems (**Socket.io**, **Firebase**)  
 - 💳 Payment systems (**Stripe**, **Paystack**, **Flutterwave**)  
@@ -32,7 +32,7 @@ Testing real-time features, server-side rendering, and modern architecture.
 
 ⚙️ Tech Stack  
 
-**Languages:** PHP, JavaScript, Dart, SQL  
+**Languages:** PHP, JavaScript, Dart, SQL, python  
 **Frameworks:** Laravel, NativePHP, Node.js, Flutter  
 **Databases:** MySQL, Firebase  
 **Tools:** Git, VS Code, Postman, Socket.io  
