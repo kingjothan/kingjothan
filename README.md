@@ -24,16 +24,11 @@ I'm the engineer behind the internal software at **Rockmould Limited**, a premiu
 
 Most of what I build replaces a paper form, a WhatsApp thread, or a spreadsheet nobody trusts. HR, payroll, visitors, contractors, client access, IT support. If a company runs on it, I've probably rebuilt it.
 
-```ts
-const jonathan = {
-  role: ["Technology Analyst", "Sole Developer", "Data Protection Officer"],
-  base: "Lagos, Nigeria 🇳🇬",
-  stack: ["Laravel", "React", "TypeScript", "Flutter", "Python", "MySQL"],
-  shipping: ["HRMS", "Visitor Management", "IT Helpdesk", "AI Chat Concierge"],
-  exploring: ["Computer vision", "Digital twins", "NativePHP", "Micro-SaaS"],
-  belief: "Simple, fast, and maintainable beats clever.",
-};
-```
+**Roles:** Technology Analyst • Sole Developer • Data Protection Officer\
+**Based in:** Lagos, Nigeria\
+**Stack:** Laravel, React, TypeScript, Flutter, Python, MySQL\
+**Shipping:** HRMS, Visitor Management, IT Helpdesk, AI Chat Concierge\
+**Exploring:** Computer vision, digital twins, NativePHP, micro-SaaS
 
 ---
 
