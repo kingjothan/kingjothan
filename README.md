@@ -1,110 +1,202 @@
-# 👋 Hi, I'm Jonathan  
-💻 Programmer focused on building **reliable backend systems** and **clean user experiences**.  
-I enjoy solving real problems with code that's simple, fast, and maintainable.  
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:E2B04A&height=200&section=header&text=Jonathan%20Okoiruele&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Engineer%20%E2%80%A2%20Lagos%2C%20Nigeria&descAlignY=58&descSize=18" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=E2B04A&center=true&vCenter=true&width=640&lines=I+build+systems+companies+actually+run+on.;18+modules.+311+routes.+One+engineer.;Laravel+%E2%80%A2+React+%E2%80%A2+Flutter+%E2%80%A2+Python;Turning+paper+workflows+into+software." alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://kingjothan.netlify.app"><img src="https://img.shields.io/badge/Portfolio-kingjothan.netlify.app-E2B04A?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <a href="mailto:okoiruelejonathan@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-0D1117?style=for-the-badge&logo=gmail&logoColor=E2B04A" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=kingjothan&color=E2B04A&style=for-the-badge&label=Profile+views" />
+</p>
 
 ---
 
-🚀 What I Do  
-- 🧠 Backend development with **Laravel**, **Node.js**, **Python** and **NativePHP**  
-- 📱 Mobile apps using **Flutter**, **NativePHP**  
-- 🗄️ Database design and optimization (**MySQL**)  
-- 🌍 API integration and real-time systems (**Socket.io**, **Firebase**)  
-- 💳 Payment systems (**Stripe**, **Paystack**, **Flutterwave**)  
-- 🧩 System architecture and deployment  
-- 🔗 Third-party API integrations (REST, APS/Autodesk, Google Maps, HRMS pipelines)  
-- 🤖 Computer vision and AI tooling exploration  
+### 👋 Hey, I'm Jonathan
+
+I'm the engineer behind the internal software at **Rockmould Limited**, a premium real estate and construction company in Lagos. I'm the only developer there, which means I design it, build it, ship it, secure it, and get the phone call when it breaks.
+
+Most of what I build replaces a paper form, a WhatsApp thread, or a spreadsheet nobody trusts. HR, payroll, visitors, contractors, client access, IT support. If a company runs on it, I've probably rebuilt it.
+
+```ts
+const jonathan = {
+  role: ["Technology Analyst", "Sole Developer", "Data Protection Officer"],
+  base: "Lagos, Nigeria 🇳🇬",
+  stack: ["Laravel", "React", "TypeScript", "Flutter", "Python", "MySQL"],
+  shipping: ["HRMS", "Visitor Management", "IT Helpdesk", "AI Chat Concierge"],
+  exploring: ["Computer vision", "Digital twins", "NativePHP", "Micro-SaaS"],
+  belief: "Simple, fast, and maintainable beats clever.",
+};
+```
 
 ---
 
-🛠️ Projects I've Built  
+### 🏗️ Flagship Work
 
-🧾 **Rockmould Appraisal System**  
-Employee performance management platform used by Rockmould Ltd.  
-Built with **PHP**, **MySQL**, and **JavaScript**.  
-Handles appraisals, reviews, and reporting efficiently.  
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🏗️ **Rockmould Client Portal** *(rockmouldsite.com)*  
-Full-stack client portal for a Lagos construction and real estate company.  
-Built with **Laravel**, **Vite**, and **MySQL**.  
-Includes a CMS, admin dashboard, and a security scan layer for site access management.  
-Handles authentication, responsive UI, and ongoing HRMS payroll logic integration.  
+#### 🧾 Rockmould HRMS
+Enterprise HR platform built solo, end to end.
+- **18 modules, 311 routes, 8 roles**
+- Full Nigerian **PAYE + pension** payroll engine with multi-step approvals
+- Biometric attendance via **ZKTeco iclock** API, plus CSV and manual sync
+- Sensitive staff data (NIN, BVN, bank details) **encrypted at rest**
 
-🔐 **QR Code Contractor Identity System**  
-Site access management system for active Rockmould construction sites.  
-QR-based contractor identity verification with unit owner visit extensions.  
-Integrated directly into the existing Laravel portal stack.  
+`Laravel` `Alpine.js` `Tailwind` `MySQL`
 
-🧠 **Rockmould HRMS**  
-Enterprise HR management system with eleven modules: payroll, leave, recruitment, audit trail, and more.  
-Built as a full-stack system with a dark/gold design system and role-based access control.  
-React frontend with Laravel backend.  
+</td>
+<td width="50%" valign="top">
 
-🏢 **Digital Twin Initiative** *(Rockmould)*  
-Internal technical lead for connecting Rockmould's construction sites to **Autodesk Tandem** via the **APS REST API**.  
-Covers BIM integration, IoT connector architecture, and an investor portal overlay.  
-Active sites: 40B Bourdillon, Eko Atlantic Mixed-Use, Maison Medici, Mosley Road.  
-Built in **Laravel + Python + Tailwind**, with a four-phase learning and delivery roadmap.  
+#### 🪪 Visitor Management System
+Front-desk software that doesn't look like front-desk software.
+- Five visitor types with **host approval over WhatsApp and email**
+- **QR self check-in** and a returning-visitor pass system
+- Read-only bridge into the HRMS for staff lookups
+- Built with **NDPA** compliance from day one
 
-🧰 **UrbanHandy**  
-Uber-style handyman app connecting clients with nearby technicians in Lagos.  
-Built with **Flutter** (mobile) and **Laravel** (backend).  
-Includes Google Maps, payments (Paystack), job tracking, and real-time notifications.  
-Real-time updates via **Socket.io** and **Firebase**.  
-State managed with **Riverpod**; navigation via **go_router**.  
-Design system: Space Grotesk, terracotta `#E8630A`, forest green, amber, warm cream — built for Lagos 2030.  
+`Laravel` `MySQL` `QR` `WhatsApp API`
 
-💬 **Wedding Wishes Platform** *(AJ & Babs)*  
-Interactive wishes site built for a personal contact's wedding.  
-Two versions delivered: a **Laravel full-stack** version with a `wishes` table, admin moderation, and AJAX live polling; and a **React/TypeScript/Vite/Tailwind** version using React Context with a passcode-gated admin panel.  
-Wine/purple/gold design system with Cormorant Garamond typography.  
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-🧪 **NativePHP Experiments**  
-Exploring a new way to build PHP apps without JavaScript fatigue.  
-Testing real-time features, server-side rendering, and modern architecture.  
-Focused on clean code, performance, and developer experience.  
+#### 🛠️ IT Helpdesk
+Ticketing and IT visibility for the whole company.
+- Staff raise tickets, IT resolves them, management sees everything
+- **Email OTP login** tied to company mail
+- Auto-generated **weekly IT reports** for leadership
+- Tracks the systems IT owns, not just the tickets
+
+`Laravel` `Real-time` `Reporting`
+
+</td>
+<td width="50%" valign="top">
+
+#### 💬 AI Chat Concierge
+Custom AI assistant for the company website, no SaaS subscription.
+- Answers from site content: services, projects, FAQ, policies
+- Captures leads and **hands off to a live human** mid-chat
+- Separate real-time staff console for takeovers
+
+`Laravel` `Reverb` `Echo` `LLM streaming`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏢 Client Portal + Corporate Site
+The public face of Rockmould and the private door for clients.
+- Full CMS and admin dashboard behind [rockmould.com](https://rockmould.com)
+- Secure client portal with access management
+- Responsive, fast, and SEO-ready
+
+`Laravel` `Vite` `MySQL`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌐 Digital Twin Initiative
+Connecting construction sites to live BIM models.
+- Integration layer for **Autodesk Tandem via APS REST API**
+- IoT connector architecture and an investor-facing portal
+- Pilot sites across Lekki and Ikoyi, with an engineering partner engaged
+
+`Laravel` `Python` `Autodesk APS` `IoT`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>➕ More things I've built</b></summary>
+<br>
+
+| Project | What it does | Stack |
+|---|---|---|
+| **Rockmould Executive Suite** | Leadership dashboard for the company's key numbers | React, TypeScript, Supabase, Cloudflare Workers |
+| **Appraisal System** | Employee performance reviews and reporting | PHP, MySQL, JavaScript |
+| **QR Contractor Identity** | On-site contractor verification with instant scan checks | Laravel, QR |
+| **RockERP** | Internal operations and resource planning | Laravel, MySQL |
+| **UrbanHandy** | Uber-style home services app connecting clients with vetted artisans in Lagos | Flutter, Laravel, Riverpod, Google Maps |
+| **Wedding Wishes** | Real-time guest wishes wall with admin moderation | Laravel, React, TypeScript |
+| **Forex Intelligence** | Market analysis tooling for currency trading | Python |
+| **AI Camera Analytics R&D** | Computer vision for site material counting and access control | Frigate NVR, Docker, MQTT |
+
+</details>
 
 ---
 
-⚙️ Tech Stack  
+### 🧰 Toolbox
 
-**Languages:** PHP, JavaScript, TypeScript, Dart, SQL, Python  
-**Frameworks:** Laravel, NativePHP, Node.js, Flutter, React  
-**Databases:** MySQL, Firebase  
-**Tools:** Git, VS Code, Postman, Socket.io, Riverpod, go_router  
-**APIs:** REST, GraphQL, WebSockets, APS (Autodesk Platform Services)  
-**DevOps:** cPanel, Hostinger, GitHub Actions  
-**Design:** Tailwind CSS, Figma-to-code handoff  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nodejs,python,flutter,dart,mysql,firebase,supabase&perline=12" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=tailwind,vite,docker,git,github,githubactions,cloudflare,netlify,linux,figma,postman,vscode&perline=12" />
+</p>
 
----
-
-💡 Highlights  
-- Built and deployed multiple full-stack apps for production use.  
-- Designed APIs consumed by both web and mobile clients.  
-- Integrated payment systems (Paystack, Stripe, Flutterwave) across platforms.  
-- Led a Digital Twin initiative connecting physical construction sites to BIM infrastructure.  
-- Built enterprise HRMS and site access management systems from scratch.  
-- Converted modern projects to **pure HTML, CSS, and JS** when needed.  
-- Focused on communication, reliability, and delivery.  
+<p align="center">
+  <img src="https://img.shields.io/badge/Paystack-00C3F7?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutterwave-F5A623?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel_Reverb-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Autodesk_APS-0696D7?style=flat-square&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/NativePHP-7F52FF?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+</p>
 
 ---
 
-🎯 Current Focus  
-- Refining *UrbanHandy* backend performance and Flutter UI.  
-- Building out the *QR Contractor Identity System* for Rockmould sites.  
-- Progressing the *Digital Twin* APS API integration and investor portal.  
-- Exploring *NativePHP* for hybrid web apps.  
-- Improving developer documentation and internal tooling at Rockmould.  
+### 🔐 Security isn't an afterthought
+
+I'm also Rockmould's **Data Protection Officer**, so privacy gets designed in, not bolted on. Encryption at rest for sensitive fields, role-based access everywhere, audit trails, and **NDPA-aligned** data handling across everything I ship.
 
 ---
 
-🧩 Outside Code  
-When I'm not programming, I'm learning how to communicate better and make the people I care about feel loved.  
-I like clean interfaces, short code, and honest feedback.  
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kingjothan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E2B04A&icon_color=E2B04A&text_color=c9d1d9&rank_icon=github&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingjothan&layout=compact&hide_border=true&bg_color=0D1117&title_color=E2B04A&text_color=c9d1d9&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kingjothan&hide_border=true&background=0D1117&ring=E2B04A&fire=E2B04A&currStreakLabel=E2B04A&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kingjothan&bg_color=0D1117&color=c9d1d9&line=E2B04A&point=ffffff&area=true&area_color=E2B04A&hide_border=true" />
+</p>
 
 ---
 
-📫 Let's Connect  
-💼 [LinkedIn](https://www.linkedin.com/in/jonathan-okoiruele-b22213325)  
-📧 okoiruelejonathan@gmail.com  
+### 🔭 Right now
 
-⭐ If you like how I work, follow me to see more projects and ideas in progress!
+- 🚀 Taking the **HRMS** through user acceptance testing and into go-live
+- 🪪 Testing the **Visitor Management System** at the front desk
+- 🛠️ Building a world-class **IT Helpdesk** from scratch
+- 👁️ Exploring **computer vision** for construction site analytics
+- 📱 Pushing **UrbanHandy** further on Flutter performance
+- 🧪 Playing with **NativePHP** for hybrid apps
+
+---
+
+### 🌱 Off the keyboard
+
+I'm learning how to communicate better and make the people around me feel heard. I like clean interfaces, short code, and honest feedback. Tell me what's broken and I'll probably enjoy fixing it.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E2B04A,50:1a1a2e,100:0D1117&height=110&section=footer" />
+</p>
+
+<p align="center"><i>⭐ If you like how I work, follow along. There's always something shipping.</i></p>
