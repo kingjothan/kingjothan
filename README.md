@@ -163,20 +163,19 @@ I'm also Rockmould's **Data Protection Officer**, so privacy gets designed in, n
 
 ---
 
-### 📊 GitHub Stats
+### 📊 By the numbers
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kingjothan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E2B04A&icon_color=E2B04A&text_color=c9d1d9&rank_icon=github&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingjothan&layout=compact&hide_border=true&bg_color=0D1117&title_color=E2B04A&text_color=c9d1d9&langs_count=8" />
+  <img src="https://img.shields.io/badge/HRMS-18%20modules%20%E2%80%A2%20311%20routes-E2B04A?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Production%20systems-10%2B-E2B04A?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Dev%20team%20size-1-E2B04A?style=for-the-badge&labelColor=0D1117" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kingjothan&hide_border=true&background=0D1117&ring=E2B04A&fire=E2B04A&currStreakLabel=E2B04A&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kingjothan&bg_color=0D1117&color=c9d1d9&line=E2B04A&point=ffffff&area=true&area_color=E2B04A&hide_border=true" />
-</p>
+<p align="center"><sub>Most of my code lives in private company repos, so the public graphs only tell part of the story.</sub></p>
 
 ---
 
