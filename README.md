@@ -91,7 +91,7 @@ Custom AI assistant for the company website, no SaaS subscription.
 
 #### 🏢 Client Portal + Corporate Site
 The public face of Rockmould and the private door for clients.
-- Full CMS and admin dashboard behind [rockmould.com](https://rockmould.com)
+- Full CMS and admin dashboard behind
 - Secure client portal with access management
 - Responsive, fast, and SEO-ready
 
